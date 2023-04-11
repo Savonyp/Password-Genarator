@@ -21,15 +21,14 @@ THEN the password is either displayed in an alert or written to the page
 # Features
 
     Generate random passwords:
-        Choose the length of the password (8-64 characters)
-        Select from various character types (lowercase letters, uppercase letters, numbers, symbols)
-        Include or exclude similar characters (such as l and I, or O and 0)
-    Copy password to clipboard with the click of a button
-    Clear generated password
+        Select from various character types (letters, numbers, symbols)
+        Copy password to clipboard with the click of a button
+
+# Screenshot
 
 # Installation
 
-    Clone the repository or download the zip file.
+    Clone the starter repository or download the zip file.
     Open the downloaded folder in your preferred code editor.
     Open the index.html file in your web browser.
 
