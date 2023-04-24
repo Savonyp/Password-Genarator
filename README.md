@@ -26,6 +26,7 @@ THEN the password is either displayed in an alert or written to the page
 
 # Screenshot
 
+
 # Installation
 
     Clone the starter repository or download the zip file.

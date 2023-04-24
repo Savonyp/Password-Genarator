@@ -51,7 +51,7 @@ if(userChoices.userChoseSpecialCharacters) {
 availableChars = availableChars.concat(specialCharacters);
 }
 
-for(var i = 0; i < 9; i++) {
+for(var i = 0; i < 18; i++) {
 passwordArr.push(availableChars[createRandom(availableChars.length)]);
 }
 
