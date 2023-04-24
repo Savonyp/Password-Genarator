@@ -24,8 +24,13 @@ THEN the password is either displayed in an alert or written to the page
         Select from various character types (letters, numbers, symbols)
         Copy password to clipboard with the click of a button
 
-# Screenshot
-
+# Screenshots
+![images of application 1](./develop/images/1.png)
+![images of application 2](./develop/images/2.png)
+![images of application 3](./develop/images/3.png)
+![images of application 4](./develop/images/4.png)
+![images of application 5](./develop/images/5.png)
+![images of application 6](./develop/images/6.png)
 
 # Installation
 
@@ -50,3 +55,14 @@ This Password Generator was created by Savony Panton as a project for Full stack
 # License
 
 No License.
+
+
+# sources
+https://www.w3schools.io/file/github-readme-image/#:~:text=It%20displays%20the%20image%20with%20title%20and%20alt%20content.&text=use%20HTML%20image%20tag%20Another,in%20the%20markdown%20readme%20file
+
+https://www.w3schools.com/js/js_variables.asp
+
+https://www.w3schools.com/html/html_filepaths.asp
+
+
+
